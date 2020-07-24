@@ -1,6 +1,6 @@
 ---
 ID: 1761
-post_title: GBirthDay
+post_title: GBirthDay2
 author: yuri
 post_excerpt: ""
 layout: page
