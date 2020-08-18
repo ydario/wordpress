@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://localhost/wordpress/?page_id=1786
 published: true
-post_date: 2010-01-25 12:42:37
+post_date: 2010-03-04 21:52:47
 ---
 <p><img src="/images/GBirthDay/icon.png" alt="Program&amp;nbsp;Icon" title="Program&amp;nbsp;Icon" /></p>
 <h2>GBirthDay, your phone contacts birthday reminder</h2>
@@ -19,7 +19,7 @@ post_date: 2010-01-25 12:42:37
 <li>NLS support for multiple languages (EN, IT, DE, FR, NL currently supported)</li>
 </ul>
 <p><strong>Download:</strong></p>
-<p>The most recent version is 1.5, and the demo version is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The demo version will stop working on 31th February 2010. You can now purchase this application, this will remove the advertising banners, making more space available on the screen, a smaller application, and more features to come soon.</p>
+<p>The most recent version is 1.5, and the demo version is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The demo version will stop working on 30th April 2010. You can now purchase this application, this will remove the advertising banners, making more space available on the screen, a smaller application, and more features to come soon.</p>
 <p>If you have a QR code compatible reader, please scan this image to enter the Android Market:</p>
 <p><img src="/images/GBirthDay/market.png" alt="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" title="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" /></p>
 <p><strong>Documentation</strong></p>
