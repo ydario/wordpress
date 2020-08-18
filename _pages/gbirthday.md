@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://localhost/wordpress/?page_id=1786
 published: true
-post_date: 2009-08-04 11:49:46
+post_date: 2009-09-14 00:08:04
 ---
 <p><img src="/images/GBirthDay/icon.png" alt="Program&amp;nbsp;Icon" title="Program&amp;nbsp;Icon" /></p>
 <h2>GBirthDay, your phone contacts birthday reminder</h2>
@@ -16,15 +16,23 @@ post_date: 2009-08-04 11:49:46
 <p><strong>Features:</strong>- Phone contact list</p>
 <ul>
 <li>Google Calendar interface</li>
-<li>NLS support for multiple languages (EN, IT, currently supported, more to come)</li>
+<li>NLS support for multiple languages (EN, IT, DE, FR, NL currently supported)</li>
 </ul>
 <p><strong>Download:</strong></p>
-<p>The most recent version is 1.1.0 demo, and it is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The current version will stop working on 14th September 2009. Please not this is not a FREEWARE application, it will be a priced application once the Android Market will allow so.</p>
+<p>The most recent version is 1.1.1 demo, and it is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The current version will stop working on 31th October 2009. Please not this is not a FREEWARE application, it will be a priced application once the Android Market will allow so.</p>
 <p>If you have a QR code compatible reader, please scan this image to enter the Android Market:</p>
 <p><img src="/images/GBirthDay/market.png" alt="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" title="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" /></p>
 <p><strong>Documentation</strong></p>
 <p>Please refer to GBirthDayHelp page for most recent documentation.</p>
 <p><strong>Release history</strong></p>
+<p>2009-08-07 1.1.1 demo release. </p>
+<ul>
+<li>Added dutch translation.</li>
+</ul>
+<p>2009-08-06 1.1.1 demo release. </p>
+<ul>
+<li>Added german translation.</li>
+</ul>
 <p>2009-08-04 1.1.1 demo released. </p>
 <ul>
 <li>Added support for mobile advertising</li>
