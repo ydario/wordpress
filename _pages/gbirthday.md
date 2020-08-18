@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://localhost/wordpress/?page_id=1786
 published: true
-post_date: 2009-11-12 23:47:29
+post_date: 2009-11-25 12:44:45
 ---
 <p><img src="/images/GBirthDay/icon.png" alt="Program&amp;nbsp;Icon" title="Program&amp;nbsp;Icon" /></p>
 <h2>GBirthDay, your phone contacts birthday reminder</h2>
@@ -19,12 +19,16 @@ post_date: 2009-11-12 23:47:29
 <li>NLS support for multiple languages (EN, IT, DE, FR, NL currently supported)</li>
 </ul>
 <p><strong>Download:</strong></p>
-<p>The most recent version is 1.3.2, and the demo version is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The demo version will stop working on 30th November 2009. You can now purchase this application, this will remove the advertising banners, making more space available on the screen, a smaller application, and more features to come soon.</p>
+<p>The most recent version is 1.3.3, and the demo version is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The demo version will stop working on 31th December 2009. You can now purchase this application, this will remove the advertising banners, making more space available on the screen, a smaller application, and more features to come soon.</p>
 <p>If you have a QR code compatible reader, please scan this image to enter the Android Market:</p>
 <p><img src="/images/GBirthDay/market.png" alt="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" title="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" /></p>
 <p><strong>Documentation</strong></p>
 <p>Please refer to GBirthDayHelp page for most recent documentation.</p>
 <p><strong>Release history</strong></p>
+<p>2009-11-25 1.3.3 release. </p>
+<ul>
+<li>Android 2.0 support.</li>
+</ul>
 <p>2009-11-12 1.3.2 release. </p>
 <ul>
 <li>Android 2.0 support.</li>
