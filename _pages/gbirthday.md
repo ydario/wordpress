@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://localhost/wordpress/?page_id=1786
 published: true
-post_date: 2010-08-19 23:47:54
+post_date: 2010-08-20 16:41:28
 ---
 <p>[toc  label="Index" ]</p>
 <p><img src="/images/GBirthDay/icon.png" alt="Program&amp;nbsp;Icon" title="Program&amp;nbsp;Icon" /></p>
@@ -21,8 +21,8 @@ post_date: 2010-08-19 23:47:54
 <li>NLS support for multiple languages (EN, IT, DE, FR, NL currently supported)</li>
 </ul>
 <h2>Download</h2>
-<p>The most recent version is 1.7, and the demo version is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The demo version will stop working on 30th April 2010. You can now purchase this application, this will remove the advertising banners, making more space available on the screen, a smaller application, and more features to come soon.</p>
-<p>If you cannot access paid applications on the Android Market, it is now possible to purchase them from the <a href="http://andappstore.com">Android AndAppStore</a>; in such case, PayPal will be used to pay the application.</p>
+<p>The most recent version is available for download from the <a href="com.os2power.web.GBirthDay">Android Market</a>. The demo version will stop working after one week. You can purchase this application, this will remove the advertising banners, making more space available on the screen, a smaller application, and more features to come soon.</p>
+<p>If you cannot access paid applications on the Android Market, it can be purchased from the <a href="http://andappstore.com">Android AndAppStore</a>; in such case, PayPal will be used to pay the application.</p>
 <p>If you have a QR code compatible reader, please scan this image to enter the Android Market from your Android Phone:</p>
 <p><img src="/images/GBirthDay/market.png" alt="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" title="QR&amp;nbsp;code&amp;nbsp;-&amp;nbsp;Market" /></p>
 <p>If you do not have access to Android Market, you can get applications from <a href="http://andappstore.com/AndroidApplications/profile/620942">AndAppStore</a> web site.</p>
