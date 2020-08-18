@@ -6,7 +6,7 @@ post_excerpt: ""
 layout: page
 permalink: http://localhost/wordpress/?page_id=1786
 published: true
-post_date: 2009-08-03 18:57:21
+post_date: 2009-08-04 11:49:46
 ---
 <p><img src="/images/GBirthDay/icon.png" alt="Program&amp;nbsp;Icon" title="Program&amp;nbsp;Icon" /></p>
 <h2>GBirthDay, your phone contacts birthday reminder</h2>
@@ -25,6 +25,10 @@ post_date: 2009-08-03 18:57:21
 <p><strong>Documentation</strong></p>
 <p>Please refer to GBirthDayHelp page for most recent documentation.</p>
 <p><strong>Release history</strong></p>
+<p>2009-08-04 1.1.1 demo released. </p>
+<ul>
+<li>Added support for mobile advertising</li>
+</ul>
 <p>2009-08-03 1.1.0 demo released. </p>
 <ul>
 <li>Added speed search.</li>
